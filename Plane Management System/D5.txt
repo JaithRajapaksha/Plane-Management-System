@@ -1,0 +1,11 @@
+Ticket Information 
+
+Row: D
+Seat: 5
+Price: £200.0
+
+Person Information
+
+Name: jaith
+Surname: s
+Email: s

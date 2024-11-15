@@ -1,0 +1,11 @@
+Ticket Information 
+
+Row: A
+Seat: 12
+Price: £180.0
+
+Person Information
+
+Name: hath
+Surname: hah
+Email: mefaef

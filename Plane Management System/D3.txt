@@ -1,0 +1,11 @@
+Ticket Information 
+
+Row: D
+Seat: 3
+Price: £200.0
+
+Person Information
+
+Name: ja
+Surname: s
+Email: s
